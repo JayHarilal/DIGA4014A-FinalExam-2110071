@@ -10,3 +10,14 @@ This portfolio was designed using frontend web development, and follows a custom
 - Responsive design
 - JavaScript Interactivity
 - Frontend development practices
+
+## Technologies used  
+### Frontend  
+- HTML5
+- CSS3
+- JavaScript
+### Design  
+- Orbitron Typography
+- Rajdhani Typography
+- Custom Teal Colour System
+- Responsive Grid Layouts
