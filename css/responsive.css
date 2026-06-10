@@ -1,0 +1,131 @@
+/*Tablet*/
+
+@media(max-width:992px){
+
+    h1{
+        font-size:3rem;
+    }
+
+    .hero-content{
+        grid-template-columns:1fr;
+        text-align:center;
+    }
+
+    .hero-buttons{
+        justify-content:center;
+    }
+
+    .projects-grid{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .skills-grid{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .benefits-grid{
+        grid-template-columns:1fr;
+    }
+}
+
+/*Mobile*/
+
+@media(max-width:768px){
+
+    section{
+        padding:70px 0;
+    }
+
+    h1{
+        font-size:2.4rem;
+    }
+
+    h2{
+        font-size:2rem;
+    }
+
+    .projects-grid{
+        grid-template-columns:1fr;
+    }
+
+    .skills-grid{
+        grid-template-columns:1fr;
+    }
+
+    .hero-buttons{
+        flex-direction:column;
+    }
+
+    .btn,
+    .btn-secondary{
+        width:100%;
+        text-align:center;
+    }
+
+    .contact-grid{
+        grid-template-columns:1fr;
+    }
+
+    .about-grid{
+        grid-template-columns:1fr;
+    }
+
+    .logo-text{
+        display:none;
+    }
+
+    .hamburger{
+        display:block;
+    }
+
+    .show-menu{
+        display:flex;
+    }
+
+    .nav-links{
+
+        position:absolute;
+
+        top:80px;
+        left:0;
+
+        width:100%;
+
+        background:#0F172A;
+
+        flex-direction:column;
+
+        text-align:center;
+
+        padding:20px 0;
+
+        display:none;
+    }
+
+    .nav-links a{
+        padding:15px 0;
+        color:white;
+    }
+
+    .show-menu{
+        display:flex;
+    }
+
+}
+
+/*Smaller mobile*/
+
+@media(max-width:480px){
+
+    h1{
+        font-size:2rem;
+    }
+
+    h2{
+        font-size:1.7rem;
+    }
+
+    .container{
+        width:92%;
+    }
+}
