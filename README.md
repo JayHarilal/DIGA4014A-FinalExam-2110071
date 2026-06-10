@@ -6,7 +6,7 @@ https://jayharilal.github.io/DIGA4014A-FinalExam-2110071/
 ## Running Locally  
 1. Clone the repo
    ```bash
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+git clone https://github.com/DIGA4014A-FinalExam-2110071.git
 2. Open Project Folder  
 cd DIGA4014A-FinalExam-2110071  
 3. Open ***index.html*** in browser or use **Live Server** on VS Code
