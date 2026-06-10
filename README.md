@@ -5,7 +5,8 @@ The deployed website via GitHub can be accessed here:
 https://jayharilal.github.io/DIGA4014A-FinalExam-2110071/  
 ## Running Locally  
 1. Clone the repo
-   ```bash git clone https://github.com/JayHarilal/DIGA4014A-FinalExam-2110071.git  
+   ```bash
+git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
 2. Open Project Folder  
 cd DIGA4014A-FinalExam-2110071  
 3. Open ***index.html*** in browser or use **Live Server** on VS Code
