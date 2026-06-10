@@ -520,7 +520,7 @@ nav{
 .projects-hero{
     position:relative;
 
-    background-image:url("/images/unity.png");
+    background-image:url("../images/unity.png");
 
     background-size:cover;
     background-position:center;
